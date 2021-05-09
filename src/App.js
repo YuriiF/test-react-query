@@ -5,6 +5,7 @@ import Projects from './Projects';
 const App = () => {
   return (
     <div className="App">
+      <span>learn react</span>
       <Projects />
     </div>
   );
